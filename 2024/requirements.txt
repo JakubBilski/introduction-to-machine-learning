@@ -1,0 +1,5 @@
+# tested with python 3.9
+# torch should be installed separately
+ipykernel
+matplotlib
+wandb

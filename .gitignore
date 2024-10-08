@@ -1,3 +1,6 @@
+2024/data
+2024/wandb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
